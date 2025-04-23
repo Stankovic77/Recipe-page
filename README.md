@@ -10,8 +10,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-9-08TJp-Eu)
+- Live Site URL: [LiveSite](https://recipe-page-bay-rho.vercel.app/)
 
 
 ### Built with
@@ -30,3 +30,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Frontend Mentor - [@Stankovic77](https://www.frontendmentor.io/profile/Stankovic77)
 - Github - [@Stankovic77](https://github.com/Stankovic77)
+- Vercel - [@Stankovic77](https://vercel.com/markos-projects)
